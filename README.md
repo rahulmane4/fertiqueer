@@ -1,2 +1,0 @@
-# fertiqueer
-fertiqueer Demo App

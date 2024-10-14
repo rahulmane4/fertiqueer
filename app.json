@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "fertiqueer",
+    "slug": "fertiqueer",
+    "version": "1.0.0",
+    "displayName": "fertiQueer",
+    "appname": "fertiQueer",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fertiqueer.app"
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "stateAlwaysHidden|adjustPan",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.fertiqueer.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5e43cd9e-8e0e-4b7d-ae45-c3f0917717fd"
+      }
+    },
+    "owner": "rahulmanenxt",
+    "scheme": "Home"
+  }
+}
